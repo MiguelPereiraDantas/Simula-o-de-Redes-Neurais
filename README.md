@@ -1,1 +1,0 @@
-# Simula-o-de-Redes-Neurais
